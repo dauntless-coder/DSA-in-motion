@@ -1,2 +1,2 @@
 # DSA-in-motion
-grinding basics to infinity about Data structures and Algorithm with C language
+learning basics to infinity- Data structures and Algorithm with C language
